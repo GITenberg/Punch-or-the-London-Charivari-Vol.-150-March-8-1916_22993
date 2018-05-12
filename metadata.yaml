@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6487
     wikipedia: http://en.wikipedia.org/wiki/Owen_Seaman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22993#Punch-or-the-London-Charivari-Vol.-150-March-8-1916
 gutenberg_bookshelf: Punch
 gutenberg_issued: '2007-10-14'
 gutenberg_type: Text
